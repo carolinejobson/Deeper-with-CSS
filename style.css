@@ -28,7 +28,7 @@ ul {
 /* Containers */
 div {
   background-color: #eae2b7;
-  margin: auto;
+  margin: 0 auto;
   width: 600px;
 }
 
@@ -52,7 +52,7 @@ article div {
  .group{
         display: flex;
         flex: 1;
-        margin: 0px;
+        margin: 0 auto;
         flex-direction: column;
         justify-content: space-evenly; 
 }
