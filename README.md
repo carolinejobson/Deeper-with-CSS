@@ -2,7 +2,7 @@
 
 Deeper-with-CSS is a redesign of Pete-Portfolio-Thinkful, a basic, one-page website.
 
-# Project description
+# Project Description
 
 You're a web developer at the Thinkful Design Agency. Pete Thinkful, an artist, has approached your team to help him build a web portfolio to serve as his online business card.
 
