@@ -52,7 +52,7 @@ article div {
  .group{
         display: flex;
         flex: 1;
-        margin: 5px;
+        margin: 2px;
         flex-direction: column;
         justify-content: space-evenly; 
 }
