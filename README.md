@@ -1,6 +1,6 @@
 # Thinkful Assessment: Deeper-with-css
 
-Deeper-with-css is a redesign of pete-portfolio-thinkful, a basic, one-page website.
+Deeper-with-css is a redesign of Pete-portfolio-thinkful, a basic, one-page website.
 
 # Project Description
 
